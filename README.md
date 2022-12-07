@@ -1,1 +1,1 @@
-# hangmang-ame
+# hangman-game
